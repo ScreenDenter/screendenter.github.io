@@ -6,7 +6,7 @@ if (width<600){
 }
 
 if (width>=600 && width<1400){
-	location.href = 'http://www.google.com/';
+	location.href = 'mobile';
 
 
 }
